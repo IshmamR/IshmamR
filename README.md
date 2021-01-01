@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Ishmam's github stats](https://github-readme-stats.vercel.app/api?username=IshmamR)](https://github.com/IshmamR/github-readme-stats)
+[![Ishmam's github stats](https://github-readme-stats.vercel.app/api?username=IshmamR&show_icons=true&theme=react)](https://github.com/IshmamR/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamR&layout=compact)](https://github.com/IshmamR/)
+
