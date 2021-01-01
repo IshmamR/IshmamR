@@ -17,8 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: JavaScript can do what other languages can do but other languages cannot do what JavaScript can do.
 
 ---
-
+<!--
 [![Ishmam's github stats](https://github-readme-stats.vercel.app/api?username=IshmamR&show_icons=true&theme=react)](https://github.com/IshmamR/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamR&layout=compact)](https://github.com/IshmamR/)
+-->
 
+<a href="https://github.com/IshmamR/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshmamR&show_icons=true&theme=react" />
+</a>
+<a href="https://github.com/IshmamR?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshmamR&layout=compact&theme=react" />
+</a>
