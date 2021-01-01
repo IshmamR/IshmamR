@@ -1,4 +1,4 @@
-### Hi there, <img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/IshmamR/IshmamR/master/imgs/electrode.png" /> I am Ishmam.
+### Hi there, <img align="left" alt="Sublime Text" width="20px" src="https://raw.githubusercontent.com/IshmamR/IshmamR/master/imgs/electrode.png" /> I am Ishmam.
 
 <!--
 **IshmamR/IshmamR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
