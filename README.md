@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: ishmam785@gmail.com
 - ⚡ Fun fact: JavaScript can do what other languages can do but other languages cannot do what JavaScript can do.
+
+---
+
+[![Ishmam's github stats](https://github-readme-stats.vercel.app/api?username=IshmamR)](https://github.com/IshmamR/github-readme-stats)
