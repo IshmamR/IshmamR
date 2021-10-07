@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning new frameworks and component libraries
+- 🌱 I’m currently learning React Native and new frameworks and component libraries
 - 👯 I’m looking to collaborate on cool projects!
 - 📫 How to reach me: ishmam785@gmail.com
 - ⚡ Fun fact: The word computer “bug” was inspired by a real bug. It was founded by Grace Hopper(https://gocoderz.com/blog/great-women-of-stem/) in 1947.
