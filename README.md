@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamR&layout=compact&theme=react)](https://github.com/IshmamR?tab=repositories)
 
-[![Ishmam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IshmamR&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Ishmam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Promethewz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <a href="https://github.com/IshmamR/">
