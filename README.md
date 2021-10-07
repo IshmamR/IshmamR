@@ -1,20 +1,22 @@
-### Hi there,<img align="left" alt="Sublime Text" width="20px" src="https://raw.githubusercontent.com/IshmamR/IshmamR/master/imgs/electrode.png" /> I am Ishmam.
+### Hi there,<img align="left" alt="Electrode" width="20px" src="https://raw.githubusercontent.com/IshmamR/IshmamR/master/imgs/electrode.png" /> I am Ishmam.
 
 <!--
 **IshmamR/IshmamR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on cool projects
+
+- 🔭 I’m currently working on MERN stack
+- 🌱 I’m currently learning new frameworks and component libraries
+- 👯 I’m looking to collaborate on cool projects!
 - 📫 How to reach me: ishmam785@gmail.com
 - ⚡ Fun fact: The word computer “bug” was inspired by a real bug. It was founded by Grace Hopper(https://gocoderz.com/blog/great-women-of-stem/) in 1947.
-<!-- 
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
--->
+  -->
+
 ---
 
 ### Languages and Tools:
@@ -36,6 +38,8 @@ Here are some ideas to get you started:
 [![Ishmam's github stats](https://github-readme-stats.vercel.app/api?username=IshmamR&show_icons=true&theme=react)](https://github.com/IshmamR/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamR&layout=compact&theme=react)](https://github.com/IshmamR?tab=repositories)
+
+[![Ishmam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IshmamR&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <a href="https://github.com/IshmamR/">
