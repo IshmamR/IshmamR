@@ -1,51 +1,71 @@
-### Hi there,<img align="left" alt="Electrode" width="20px" src="https://raw.githubusercontent.com/IshmamR/IshmamR/master/imgs/electrode.png" /> I am Ishmam.
+### Hi, I’m Ishmam Rahman 👋  
+_Senior Software Engineer • Full-Stack & Beyond (Web, Embedded, MLops, Tooling)_
 
-<!--
-**IshmamR/IshmamR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning React Native and new frameworks and component libraries
-- 👯 I’m looking to collaborate on cool projects!
-- 📫 How to reach me: ishmam785@gmail.com
-- ⚡ Fun fact: The word computer “bug” was inspired by a real bug. It was founded by Grace Hopper(https://gocoderz.com/blog/great-women-of-stem/) in 1947.
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-  -->
+📍 Based in Bangladesh | 🌐 Fluent in EN/BN | 📧 <a href="mailto:ishmam785@gmail.com">ishmam785@gmail.com</a>
 
 ---
 
-### Languages and Tools:
+### 🧠 About Me
 
-<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="ElectronJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
+I build robust, scalable systems—from performant web apps to real-world IoT deployments.  
+With 5+ years of shipping production systems, I specialize in:
+
+- 🌐 Full-stack apps (React, Node.js, Bun)
+- 🧩 Embedded systems (ESP32, PlatformIO, FreeRTOS)
+- ⚙️ System architecture, CI/CD, and developer tooling
+- 👥 Cross-functional collaboration with Agile teams
 
 ---
 
-[![Ishmam's github stats](https://github-readme-stats.vercel.app/api?username=IshmamR&show_icons=true&theme=react)](https://github.com/IshmamR/)
+### 🧰 Tech Toolbox
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamR&layout=compact&theme=react)](https://github.com/IshmamR?tab=repositories)
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000&style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
+![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=000&style=flat)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=fff)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=fff&style=flat)
 
-[![Ishmam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Promethewz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Frameworks & Tools:**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-020202?logo=next.js&logoColor=white&style=flat)
+![Bun](https://img.shields.io/badge/Bun-090909?logo=bun&logoColor=FBF0DF&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-090909?style=flat&logo=nodedotjs&logoColor=339933)
+![Hono](https://img.shields.io/badge/Hono-090909?style=flat&logo=hono&logoColor=FF4F1F)
+![Express.js](https://img.shields.io/badge/Express.js-040404?style=flat&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-090909?logo=tailwind-css&logoColor=06B6D4&style=flat)
 
-<!--
-<a href="https://github.com/IshmamR/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshmamR&repo=REPO" />
-</a>
-<a href="https://github.com/IshmamR?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshmamR&repo=REPO" />
-</a>
--->
+**Embedded:**  
+![Arduino](https://img.shields.io/badge/-Arduino-090909?logo=arduino&logoColor=00979D&style=flat)
+![ESP32](https://img.shields.io/badge/ESP32-090909?style=flat&logo=espressif&logoColor=E7352C)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-090909?logo=platformio&logoColor=FF7900&style=flat)
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=47A248&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=4169E1&style=flat)
+![Redis](https://img.shields.io/badge/Redis-000?logo=redis&logoColor=DC382D&style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-000?logo=sqlite&logoColor=003B57&style=flat)
+
+**Testing & CI/CD:**  
+![Jest](https://img.shields.io/badge/Jest-000?logo=jest&logoColor=C21325&style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=github-actions&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED&style=flat)
+
+**Design & IDE:**  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Figma-000?logo=figma&logoColor=F24E1E&style=flat)
+![LaTeX](https://img.shields.io/badge/LaTeX-000?logo=latex&logoColor=008080&style=flat)
+
+---
+
+> I care about clean architecture, reliable delivery, and systems that just work.
+
+---
+
+🔗 **Let’s Connect**  
+🖥️ [Portfolio](https://ishmam-r.web.app) | 𝕏 [Twitter](https://x.com/ishmamrahman9) | 👔 [LinkedIn](https://www.linkedin.com/in/ishmam-r)
+
