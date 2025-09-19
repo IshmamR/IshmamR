@@ -67,5 +67,5 @@ With 5+ years of shipping production systems, I specialize in:
 ---
 
 🔗 **Let’s Connect**  
-🖥️ [Portfolio](https://ishmam-r.web.app) | 𝕏 [Twitter](https://x.com/ishmamrahman9) | 👔 [LinkedIn](https://www.linkedin.com/in/ishmam-r)
+🖥️ [Portfolio](https://ishmam.dev) | 𝕏 [Twitter](https://x.com/ishmam_dev) | 👔 [LinkedIn](https://www.linkedin.com/in/ishmam-r)
 
